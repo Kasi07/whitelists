@@ -1,6 +1,0 @@
-# Minimal whitelist for google drive to work with rclone
-
-oauth2.googleapis.com
-accounts.google.com
-ssl.gstatic.com
-www.googleapis.com

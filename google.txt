@@ -1,0 +1,11 @@
+# Minimal whitelist for google
+
+# For google drive to work with rclone
+oauth2.googleapis.com
+accounts.google.com
+ssl.gstatic.com
+www.googleapis.com
+
+# Watching youtube using Freetube or NewPipe
+googlevideo.com
+www.youtube.com
