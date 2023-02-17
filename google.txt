@@ -7,5 +7,5 @@ ssl.gstatic.com
 www.googleapis.com
 
 # Watching youtube using Freetube or NewPipe
-googlevideo.com
+.googlevideo.com
 www.youtube.com
