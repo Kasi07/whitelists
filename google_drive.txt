@@ -2,5 +2,5 @@
 
 oauth2.googleapis.com
 accounts.google.com
-gstatic.com
+ssl.gstatic.com
 www.googleapis.com
