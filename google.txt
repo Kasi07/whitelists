@@ -9,4 +9,5 @@ www.googleapis.com
 # Watching youtube using Freetube or NewPipe
 www.youtube.com # for loading the list of videos
 i.ytimg.com # for loading the Thumbnail
+yt3.googleusercontent.com # chanel icons
 .googlevideo.com # for loading the actual video
