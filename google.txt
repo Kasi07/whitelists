@@ -7,5 +7,6 @@ ssl.gstatic.com
 www.googleapis.com
 
 # Watching youtube using Freetube or NewPipe
-.googlevideo.com
-www.youtube.com
+www.youtube.com # for loading the list of videos
+i.ytimg.com # for loading the Thumbnail
+.googlevideo.com # for loading the actual video
